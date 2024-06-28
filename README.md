@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khalid</h1>
+<h1 align="center" style="color: blue;">Hi 👋, I'm Khalid</h1>
 <h3 align="center">A am a computer engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-shahriar-kowshik&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-shahriar-kowshik" /> </p>
