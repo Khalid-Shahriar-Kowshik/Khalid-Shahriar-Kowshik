@@ -1,8 +1,4 @@
-<style>
-  h1{
-    color: red;
-  }
-</style>
+
 <h1 align="center" style="color: blue;">Hi 👋, I'm Khalid</h1>
 <h3 align="center">A am a computer engineer from Bangladesh</h3>
 
