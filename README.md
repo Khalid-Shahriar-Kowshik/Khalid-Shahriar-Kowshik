@@ -71,3 +71,10 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik&theme=tokyonight&hide_border=true"
+    alt="Khalid GitHub Streak"
+  />
+</p>
+
