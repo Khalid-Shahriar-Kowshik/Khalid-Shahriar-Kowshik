@@ -1,40 +1,78 @@
-<h1 align="center" style="color: blue;">Hi 👋, I'm Khalid</h1>
-<h3 align="center">I am a computer engineer from Bangladesh</h3>
-
-- 🌱 I’m currently learning **Flutter, Machine learning, Data Science**
-- 📫 How to reach me **khalidkowshikcse@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khalid-shahriar-kowshik/khalid-shahriar-kowshik/main/assets/banner.gif" alt="Khalid Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- your icons block unchanged -->
+<h1 align="center">Hi 👋, I'm <span style="color:#007bff;">Khalid</span></h1>
+<h3 align="center">💻 Computer Engineer from Bangladesh</h3>
+
+<p align="center">
+  <em>Passionate about Flutter, Machine Learning, and Data Science.</em>
 </p>
 
-<!-- Top languages -->
-<p>
+<!-- Right-side coding GIF -->
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+- 🌱 I’m currently learning **Flutter, Machine Learning, Data Science**  
+- 📫 Reach me at **khalidkowshikcse@gmail.com**
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="mailto:khalidkowshikcse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-shahriar-kowshik&show_icons=true&locale=en&layout=compact"
-    alt="khalid-shahriar-kowshik top languages"
+    src="https://github-readme-stats.vercel.app/api?username=khalid-shahriar-kowshik&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Khalid GitHub stats"
   />
 </p>
 
-<!-- Main stats -->
-<p>
+<p align="center">
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=khalid-shahriar-kowshik&show_icons=true&locale=en"
-    alt="khalid-shahriar-kowshik stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-shahriar-kowshik&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Khalid Top Languages"
   />
 </p>
 
-<!-- Streak stats -->
-<p>
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik"
-    alt="khalid-shahriar-kowshik streak"
+    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik&theme=tokyonight&hide_border=true"
+    alt="Khalid GitHub Streak"
   />
 </p>
