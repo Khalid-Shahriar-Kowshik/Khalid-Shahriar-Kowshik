@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid-shahriar-kowshik&show_icons=true&locale=en" alt="khalid-shahriar-kowshik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-shahriar-kowshik&" alt="khalid-shahriar-kowshik" /></p>
+<p><img src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik" alt="khalid-shahriar-kowshik" /></p>
