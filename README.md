@@ -24,12 +24,6 @@
   <a href="mailto:khalidkowshikcse@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -58,8 +52,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=khalid-shahriar-kowshik&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Khalid GitHub stats"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/khalid-shahriar-kowshik?cardType=level&theme=tokyonight"
+    alt="Khalid GitHub Stats (Awesome GitHub Stats)"
   />
 </p>
 
@@ -72,7 +66,8 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik&theme=tokyonight&hide_border=true"
-    alt="Khalid GitHub Streak"
+    src="https://github-profile-trophy.vercel.app/?username=khalid-shahriar-kowshik&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"
+    alt="Khalid GitHub Trophies"
   />
 </p>
+
