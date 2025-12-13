@@ -64,17 +64,5 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=khalid-shahriar-kowshik&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"
-    alt="Khalid GitHub Trophies"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik&theme=tokyonight&hide_border=true"
-    alt="Khalid GitHub Streak"
-  />
-</p>
 
