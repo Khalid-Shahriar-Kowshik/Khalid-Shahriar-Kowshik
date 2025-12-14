@@ -50,6 +50,7 @@
 
 ### 📊 GitHub Analytics
 
+
 <p align="center">
   <table>
     <tr>
@@ -60,10 +61,10 @@
         />
       </td>
       <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-shahriar-kowshik&layout=compact&theme=tokyonight&hide_border=true"
-          alt="Khalid Top Languages"
-        />
+         <img
+    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
       </td>
     </tr>
   </table>
