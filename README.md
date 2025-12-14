@@ -83,12 +83,13 @@
         </a>
       </td>
       <td>
-        <a href="https://codeforces.com/profile/khalid_Shahriar">
-          <img
-            src="https://codeforces-readme-stats.vercel.app/api/card?username=khalid_Shahriar&theme=tokyonight"
-            alt="Codeforces Stats"
-          />
-        </a>
+        <p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
       </td>
     </tr>
   </table>
