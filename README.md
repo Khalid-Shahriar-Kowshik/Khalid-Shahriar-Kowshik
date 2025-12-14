@@ -72,7 +72,7 @@
 
 ### 📊 Problem-Solving Analytics
 <p align="center">
- <table>
+<table>
   <tr>
     <td>
       <a href="https://leetcode.com/u/6zbOJQOCuy/">
@@ -93,23 +93,24 @@
   </tr>
   <tr>
     <td>
-      <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+      <a href="https://www.kaggle.com/khalidshahriar">
         <img
-          src="https://kaggle-card.vercel.app/api?username=YOUR_KAGGLE_USERNAME&theme=tokyonight"
+          src="https://kaggle-card.vercel.app/api?username=khalidshahriar&theme=tokyonight"
           alt="Kaggle Stats"
         />
       </a>
     </td>
     <td>
-      <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+      <a href="https://www.codechef.com/users/khalidkowshik">
         <img
-          src="https://codechef-stats.vercel.app/api?username=YOUR_CODECHEF_USERNAME&theme=tokyonight"
+          src="https://codechef-stats.vercel.app/api?username=khalidkowshik&theme=tokyonight"
           alt="CodeChef Stats"
         />
       </a>
     </td>
   </tr>
 </table>
+
 </p>
 
 
