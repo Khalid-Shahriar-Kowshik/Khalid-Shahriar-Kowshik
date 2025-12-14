@@ -61,8 +61,8 @@
         />
       </td>
       <td>
-         <img
-    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik&theme=tokyonight&hide_border=true"
+           <img
+    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik"
     alt="GitHub Streak"
   />
       </td>
@@ -72,26 +72,44 @@
 
 ### 📊 Problem-Solving Analytics
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://leetcode.com/u/6zbOJQOCuy/">
-          <img
-            src="https://leetcode.card.workers.dev/6zbOJQOCuy?theme=dark&font=baloo&border=0"
-            alt="LeetCode Stats"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://codeforces.com/profile/khalid_Shahriar">
-          <img
-            src="https://codeforces-readme-stats.vercel.app/api/card?username=khalid_Shahriar&theme=tokyonight"
-            alt="Codeforces Stats"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
+ <table>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/u/6zbOJQOCuy/">
+        <img
+          src="https://leetcode.card.workers.dev/6zbOJQOCuy?theme=dark&font=baloo&border=0"
+          alt="LeetCode Stats"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://codeforces.com/profile/khalid_Shahriar">
+        <img
+          src="https://codeforces-readme-stats.vercel.app/api/card?username=khalid_Shahriar&theme=tokyonight"
+          alt="Codeforces Stats"
+        />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+        <img
+          src="https://kaggle-card.vercel.app/api?username=YOUR_KAGGLE_USERNAME&theme=tokyonight"
+          alt="Kaggle Stats"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+        <img
+          src="https://codechef-stats.vercel.app/api?username=YOUR_CODECHEF_USERNAME&theme=tokyonight"
+          alt="CodeChef Stats"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 </p>
 
 
