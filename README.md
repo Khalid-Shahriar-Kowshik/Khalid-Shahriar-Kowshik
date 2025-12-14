@@ -51,37 +51,48 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/khalid-shahriar-kowshik?cardType=level&theme=tokyonight"
-    alt="Khalid GitHub Stats (Awesome GitHub Stats)"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-shahriar-kowshik&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Khalid Top Languages"
-  />
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://awesome-github-stats.azurewebsites.net/user-stats/khalid-shahriar-kowshik?cardType=level&theme=tokyonight"
+          alt="Khalid GitHub Stats (Awesome GitHub Stats)"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-shahriar-kowshik&layout=compact&theme=tokyonight&hide_border=true"
+          alt="Khalid Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### 📊 Problem-Solving Analytics
 <p align="center">
-  <a href="https://leetcode.com/u/6zbOJQOCuy/">
-    <img
-      src="https://leetcode.card.workers.dev/6zbOJQOCuy?theme=dark&font=baloo&border=0"
-      alt="LeetCode Stats"
-    />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/u/6zbOJQOCuy/">
+          <img
+            src="https://leetcode.card.workers.dev/6zbOJQOCuy?theme=dark&font=baloo&border=0"
+            alt="LeetCode Stats"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://codeforces.com/profile/khalid_Shahriar">
+          <img
+            src="https://codeforces-readme-stats.vercel.app/api/card?username=khalid_Shahriar&theme=tokyonight"
+            alt="Codeforces Stats"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <a href="https://codeforces.com/profile/khalid_Shahriar">
-    <img
-      src="https://codeforces-readme-stats.vercel.app/api/card?username=khalid_Shahriar&theme=tokyonight"
-      alt="Codeforces Stats"
-    />
-  </a>
-</p>
 
 
 
