@@ -64,5 +64,24 @@
   />
 </p>
 
+### 📊 Problem-Solving Analytics
+<p align="center">
+  <a href="https://leetcode.com/u/6zbOJQOCuy/">
+    <img
+      src="https://leetcode.card.workers.dev/6zbOJQOCuy?theme=dark&font=baloo&border=0"
+      alt="LeetCode Stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/khalid_Shahriar">
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=khalid_Shahriar&theme=tokyonight"
+      alt="Codeforces Stats"
+    />
+  </a>
+</p>
+
 
 
