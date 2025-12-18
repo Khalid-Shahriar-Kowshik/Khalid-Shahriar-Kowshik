@@ -91,26 +91,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://www.kaggle.com/khalidshahriar">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png"
-          alt="Kaggle Profile"
-          height="120"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.codechef.com/users/khalidkowshik">
-        <img
-          src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png"
-          alt="CodeChef Profile"
-          height="120"
-        />
-      </a>
-    </td>
-  </tr>
 </table>
 
 
