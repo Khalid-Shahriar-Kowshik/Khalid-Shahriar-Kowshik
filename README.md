@@ -55,12 +55,6 @@
   <table>
     <tr>
       <td>
-        <img
-          src="https://awesome-github-stats.azurewebsites.net/user-stats/khalid-shahriar-kowshik?cardType=level&theme=tokyonight"
-          alt="Khalid GitHub Stats (Awesome GitHub Stats)"
-        />
-      </td>
-      <td>
            <img
     src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik"
     alt="GitHub Streak"
