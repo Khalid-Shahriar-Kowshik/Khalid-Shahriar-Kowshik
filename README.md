@@ -8,8 +8,6 @@ class SoftwareMLEngineer:
         self.role = "Aspiring Software/ML Engineer and Data Scientist"
         self.occupation = "Final Year at UAP"
         self.interest = ["LLM", "Building AI agents"]
-        self.mail = "khalidkowshikcse@gmail.com"
-        self.discord = "_kowshik."
 ```
 ### 📊 Problem-Solving 
 <!-- Competitive / Profiles -->
