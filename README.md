@@ -53,7 +53,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik&v=1"
+    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik"
     alt="GitHub Streak"
   />
 </p>
