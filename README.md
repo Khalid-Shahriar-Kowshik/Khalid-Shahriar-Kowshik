@@ -56,7 +56,7 @@
     <tr>
       <td>
            <img
-    src="https://streak-stats.demolab.com?user=khalid-shahriar-kowshik"
+    src="[https://streak-stats.demolab.com?user=khalid-shahriar-kowshik](https://streak-stats.demolab.com?user=khalid-shahriar-kowshik&v=1)"
     alt="GitHub Streak"
   />
       </td>
