@@ -11,9 +11,20 @@ class SoftwareMLEngineer:
         self.mail = "khalidkowshikcse@gmail.com"
         self.discord = "_kowshik."
 ```
+### 📊 Problem-Solving 
+<!-- Competitive / Profiles -->
+[![Codeforces](https://img.shields.io/badge/Codeforces-khalid__Shahriar-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/khalid_Shahriar)
+[![Kaggle](https://img.shields.io/badge/Kaggle-khalidshahriar-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/khalidshahriar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/6zbOJQOCuy/)
+### ✅ Socials
+<!-- Contact -->
+[![Email](https://img.shields.io/badge/Email-khalidkowshikcse%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khalidkowshikcse@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-__kowshik.-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
+
 ---
 
-### Tech stack
+
+### 🖥️ Tech stack
 
 | Web development | Data Science / ML | System | Database | Soft skills |
 |---|---|---|---|---|
@@ -21,30 +32,5 @@ class SoftwareMLEngineer:
 
 ---
 
-### 📊 Problem-Solving Analytics
-<p align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://leetcode.com/u/6zbOJQOCuy/">
-        <img
-          src="https://leetcode.card.workers.dev/6zbOJQOCuy?theme=dark&font=baloo&border=0"
-          alt="LeetCode Stats"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://codeforces.com/profile/khalid_Shahriar">
-        <img
-          src="https://codeforces-readme-stats.vercel.app/api/card?username=khalid_Shahriar&theme=tokyonight"
-          alt="Codeforces Stats"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-</p>
 
 
