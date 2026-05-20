@@ -7,7 +7,9 @@ class ComputerGoesBrr:
         self.name = "Khalid Shahriar"
         self.role = "idk"
         self.occupation = "Final Year at UAP"
-        self.interest = ["LLM", "Building AI agents","Data Engineering", "Data Science", "Statistics", "System Design", "Backend", "Ai/ML", "Shipping software", "Games","Games", "Games"]
+        self.interest = ["LLM", "Building AI agents","Data Engineering", "Data Science", "Statistics", "System Design",
+                         "Backend", "Ai/ML",
+                         "Shipping software", "Games","Games", "Games"]
 ```
 ### 📊 Problem-Solving 
 <!-- Competitive / Profiles -->
